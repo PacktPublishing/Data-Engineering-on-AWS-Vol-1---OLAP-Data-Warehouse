@@ -1,0 +1,16 @@
+1. product_id int 
+2. sales_person_id string
+3. sales_person_name string 
+4. product_name string
+5. price string
+6. quantity_sold int
+7. product_make string
+8. product_color string
+9. model_year int
+10. region_sold_in string
+11. state_sold_in string
+12. country_sold_in string
+13. buyer_gender char(10)
+14. currency string
+15. credit_card_type string
+16. Car_VIN string
